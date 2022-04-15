@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background:#FAFAFA;
+	font-family: Arial, Helvetica, monospace;
+}
+
+#caixa-login {
+	border: 1px solid #DBDBDB;
+	width: 350px;
+	height: 550px;
+	margin: 0 auto;
+	padding: 0 auto;
+	margin-top: 40px;
+	background: #FFFFFF;
+}
+
+
+#area-logo{
+	background:url(../imagens/instagram-logo.png)no-repeat top;
+    /*border: 1px solid red;*/
+    margin-top: 40px;
+    height: 55px;	
+}
+#primeiro-paragrafo{
+	text-align: center;
+	padding-right: 30px;
+	padding-left: 40px;
+	padding-top:20px ;
+	font-size: 1.1em;
+	margin-bottom: 15px;
+	color: gray;
+}
+#logar-facebook{
+	text-decoration: none;
+	background: #0597F2 ;
+	padding: 8px 5px;
+	margin-left: 40px;
+	width: 250px;
+	border-radius: 3px;
+}
+#logar-facebook a{
+	text-decoration: none;
+	padding: 6px;
+	font-size: 0.8em;
+	padding-left: 20px;
+}
+
+
+#logar-facebook span{
+	background: #0597F2 url(../imagens/icon-facebook.png)no-repeat  left;
+	background-size: 20px;
+	font-family:Arial, Helvetica, sans-serif;
+	color: white;
+	padding-left: 25px;
+}
+form{
+	margin-left: 40px;
+	margin-top: 40px;
+}
+form input{
+	height: 35px;
+	width: 250px;
+	margin:0 0px 6px 0;
+	padding-left: 10px;
+   background:#FAFAFA ;
+   border: 1px solid #DBDBDB;
+}
+
+button{
+	width:263px ;
+	height: 30px;
+	background: #B2DFFC;
+	color: white;
+	font-size: 1em;
+	margin-left: 40px;
+	border: gray;
+	border-radius:3px ;
+	margin-top: 10px;
+}
+#segundo-paragrafo {
+	color: gray;
+	text-align: center;
+	margin-top: 20px;
+
+}
+h6{
+	color: gray;
+	text-align: center;
+	margin-right: 40px;
+	margin-left: 35px;
+}
+h6 a{
+	color: gray;
+	text-decoration: none;
+}
+#caixa-sessao{
+	border: 1px solid #DBDBDB;
+	width: 350px;
+	height: 50px;
+	margin: 0 auto;
+	padding: 0 auto;
+	margin-top: 20px;
+	background: #FFFFFF;
+	font-size: 0.8em;
+	text-align: center;
+	padding-top: 35px;
+}
+#caixa-sessao a{
+	text-decoration: none;
+}
+#pkl{
+	text-align: center;
+	font-size: 0.9em;
+	margin-top: 20px;
+}
+#aplicativos{
+	width: 100%;
+	margin-left: 540px;
+}
+#aplicativos ul li{
+	float: left;
+	padding: 5px;
+}
+
+
+
+
