@@ -1,3 +1,3 @@
 # login-instagram
-Recriei a pagína login do intagram<br>
-clica <a href="https://clone-login.netlify.app/">Aqui</a> para vizualizar
+<h3>clone da pagína login do intagram</h3>
+clica <a href="https://doncarderms.github.io/login-instagram/">Aqui</a> para vizualizar
